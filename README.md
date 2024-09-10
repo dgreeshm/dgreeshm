@@ -1,13 +1,13 @@
 - 👋 Hi, I’m Greeshma Dasari
-- 
+  
 ## 🌟 About Me
 
 I’m a **Full Stack Software Developer** with a passion for building innovative web applications and software solutions. With a focus on both **front-end** and **back-end** technologies, 
 I love creating seamless and efficient systems that provide great user experiences. I’m always excited about learning new technologies and improving my skills, especially in areas like 
 **AI, Machine Learning**, and **Computer Vision**.
 
-- 🔭 I’m currently working on: improving my technical skills
-- 🌱 I’m currently learning:lin depth AWS
+- 🔭 I’m currently working on: enhancing my technical skills
+- 🌱 I’m currently learning: in depth AWS
 - 💬 Ask me about: **Full Stack Development, API Integrations, Real-Time Systems**
 - ⚡ Fun fact: I’m passionate about improving healthcare through smart technology!
 
